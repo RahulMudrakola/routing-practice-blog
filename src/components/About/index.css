@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.image {
+  width: 200px;
+  margin-bottom: 20px;
+}
+.bg-container1 {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: -10px;
+}
+p {
+  text-align: center;
+}

@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.image-wave {
+  width: 30px;
+  height: 30px;
+  margin: 5px;
+}
+.img-name {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  font-size: 18px;
+  align-self: center;
+}
+.container1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+}
+.list-item {
+  display: flex;
+  list-style-type: none;
+}
+.list {
+  margin: 3px;
+  font-weight: 700;
+}
